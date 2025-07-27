@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://github.com/val8elster/athena-backend" target="_blank" style="text-decoration:none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=val8elster&repo=athena&theme=default&hide_border=true&border_radius=10" alt="Athena repo card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=val8elster&repo=athena-backend&theme=default&hide_border=true&border_radius=10" alt="Athena repo card"/>
   </a>
 </p>
 <p align="center">
